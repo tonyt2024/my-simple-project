@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000;
+}
+
+canvas {
+    background-color: #fff;
+    border: 2px solid #000;
+}
+
+#score {
+    color: #fff;
+    font-size: 24px;
+    margin-top: 10px;
+}
